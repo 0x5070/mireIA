@@ -13,10 +13,10 @@ MireIA es un asistente de voz local, privado y modular diseñado para Linux. Com
 Asegúrate de tener Python3 y `tkinter` instalados:
 ```bash
 sudo apt install python3-tk python3-venv  # En Debian/Ubuntu
-python3 instalador_mireia
+python3 mireIA.py
 
 ## Observaciones
-Escribo esto a 22 de abril de 2026 (MireIA v0.2-alpha).
+Estado actual (MireIA v0.2-alpha):
 
 Aún queda por trabajar en la entrada de voz, la cual no entiende correctamente el español a menos que se le hable con mucha claridad; asimismo, la voz parece tener dificultades con cualquier palabra que no sea española. Al ser una herramienta modular, podéis importar cualquier voz o software de reconocimiento de voz de vuestra preferencia, lo mismo con la IA que hace de "cerebro" (mi GTX 1650 no da para más, tristemente).
 
