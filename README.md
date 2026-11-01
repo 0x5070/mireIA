@@ -53,9 +53,14 @@ Voice input still needs work — it doesn't reliably understand Spanish unless s
 
 ---
 
-## Licencia / License
-CC BY-NC 4.0 — atribución requerida, uso comercial solo con permiso explícito del autor. Ver [LICENSE](LICENSE).
-CC BY-NC 4.0 — attribution required, commercial use only with the author's explicit permission. See [LICENSE](LICENSE).
-
 **Nota / Note:** este proyecto se ha desarrollado con ayuda de herramientas de IA para acelerar el proceso y aprender librerías nuevas.
+
 This project was built with the help of AI tools to speed up development and learn new libraries.
+
+## Licencia / License
+
+**GNU General Public License v3.0 (GPL-3.0).**
+
+Este proyecto se distribuye bajo los términos de la licencia GNU GPL-3.0. Consulta el archivo [LICENSE](LICENSE) para leer el texto completo.
+
+This project is distributed under the terms of the GNU GPL-3.0. See the [LICENSE](LICENSE) file for the complete license text.
